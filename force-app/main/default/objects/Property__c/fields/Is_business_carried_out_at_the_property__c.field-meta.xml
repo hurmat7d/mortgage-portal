@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Is_business_carried_out_at_the_property__c</fullName>
+    <defaultValue>false</defaultValue>
+    <label>Is business carried out at the property</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

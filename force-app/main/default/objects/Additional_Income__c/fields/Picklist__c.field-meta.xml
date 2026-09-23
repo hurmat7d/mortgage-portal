@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Picklist__c</fullName>
+    <label>Picklist</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>true</sorted>
+            <value>
+                <fullName>Car Allowance</fullName>
+                <default>false</default>
+                <label>Car Allowance</label>
+            </value>
+            <value>
+                <fullName>Child Benefit</fullName>
+                <default>false</default>
+                <label>Child Benefit</label>
+            </value>
+            <value>
+                <fullName>Investment/Dividend Income</fullName>
+                <default>false</default>
+                <label>Investment/Dividend Income</label>
+            </value>
+            <value>
+                <fullName>Maintenance Payment</fullName>
+                <default>false</default>
+                <label>Maintenance Payment</label>
+            </value>
+            <value>
+                <fullName>Pension Income</fullName>
+                <default>false</default>
+                <label>Pension Income</label>
+            </value>
+            <value>
+                <fullName>Rental Income</fullName>
+                <default>false</default>
+                <label>Rental Income</label>
+            </value>
+            <value>
+                <fullName>Universal Credit</fullName>
+                <default>false</default>
+                <label>Universal Credit</label>
+            </value>
+            <value>
+                <fullName>Working Tax Credit</fullName>
+                <default>false</default>
+                <label>Working Tax Credit</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
